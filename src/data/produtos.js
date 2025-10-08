@@ -1,0 +1,58 @@
+export const produtos = [
+  {
+    foto: "/img/big-burger.png",
+    nome: "Big Burger",
+    preco: 35.99,
+    ativo: false,
+    quantidade: 1,
+  },
+  {
+    foto: "/img/coca-cola.png",
+    nome: "Coca-Cola",
+    preco: 7.5,
+    ativo: false,
+    quantidade: 1,
+  },
+  {
+    foto: "/img/double-burger.png",
+    nome: "Double Burger",
+    preco: 26.5,
+    ativo: false,
+    quantidade: 1,
+  },
+  {
+    foto: "/img/fries.png",
+    nome: "Batata Frita",
+    preco: 7.0,
+    ativo: false,
+    quantidade: 1,
+  },
+  {
+    foto: "/img/chicken.png",
+    nome: "Chicken",
+    preco: 25.0,
+    ativo: false,
+    quantidade: 1,
+  },
+  {
+    foto: "/img/nuggets.png",
+    nome: "Nuggets",
+    preco: 8.0,
+    ativo: false,
+    quantidade: 1,
+  },
+  {
+    foto: "/img/salad.png",
+    nome: "Salada",
+    preco: 4.75,
+    ativo: false,
+    quantidade: 1,
+  },
+  {
+    foto: "/img/water.png",
+    nome: "Água",
+    preco: 3.5,
+    ativo: false,
+    quantidade: 1,
+  },
+];
